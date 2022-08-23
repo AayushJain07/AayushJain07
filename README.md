@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Jain</h1>
 
-<li>I’m currently working on My portfolio.</li>
-<li>I’m currently learning python.</li>
+<li>I’m currently working on My portfolio .</li>
+<li>I’m currently learning python .</li>
 <li> All of my projects are available at : https://github.com/AayushJain07</li>
-<li>Will launch my app soon.</li>
+<li>Will launch my app soon .</li>
 
 ## Connect with me:
 &#8594; https://linktr.ee/aayushanandjain_007
