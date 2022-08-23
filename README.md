@@ -4,7 +4,7 @@
 <li>I’m currently learning python.</li>
 <li> All of my projects are available at : https://github.com/AayushJain07</li>
 <li>Will launch my app soon.</li>
-<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="300" align="right">
+<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="250" align="right">
 
 ## Connect with me:
 &#8594; https://linktr.ee/aayushanandjain_007
