@@ -2,7 +2,7 @@
 
 <li>I’m currently working on My portfolio.</li>
 <li>I’m currently learning python.</li>
-<li> All of my projects are available at https://github.com/AayushJain07 </li>
+<li> All of my projects are available at https://github.com/AayushJain07</li>
 <li>Will launch my app soon.</li>
 
 ## Connect with me:
