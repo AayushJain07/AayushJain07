@@ -9,10 +9,10 @@
 &#8594; https://linktr.ee/aayushanandjain_007
 
 ## Languages
-<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" height="40">
+<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" height="35">
 
-## Tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" height="35">
+## Github stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushjain07&show_icons=true&locale=en" alt="aayushjain07" /></p>
 
 ## Follow me on
 <a href="https://www.instagram.com/007aayushjain"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" height="35">
