@@ -24,11 +24,6 @@ https://linktr.ee/aayushanandjain_007
 
 &#8593; &nbsp;(Click on the logo)
 
-##  Linktree link
-<a href="https://linktr.ee/aayushanandjain_007">
-<img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height="40">
-<br></br>
-&#8593; &nbsp;(Click on the logo)
 
 
 
