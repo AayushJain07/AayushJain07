@@ -22,7 +22,7 @@ https://linktr.ee/aayushanandjain_007
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35">
 &nbsp;
 
-&#8593; &nbsp;(Click on the logo)
+&#8593; &nbsp;(Click here)
 
 
 
