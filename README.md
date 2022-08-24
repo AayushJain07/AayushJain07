@@ -20,7 +20,7 @@ https://linktr.ee/aayushanandjain_007
 &nbsp;
 <a href="https://github.com/AayushJain07">
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35">
-&nbsp;&#8592; (Click here)
+&#8592 ; &nbsp;(Click here)
 
 
 
