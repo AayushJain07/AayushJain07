@@ -18,7 +18,7 @@ https://hireaayush.netlify.app
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="35">
 
 ## Follow me on
-<a href="https://www.instagram.com/007aayushjain"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" height="35">
+<a href="https://www.instagram.com/007aayushjain"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" height="38">
 &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100084318229265">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1200px-Facebook_f_logo_%282021%29.svg.png" height="35">
