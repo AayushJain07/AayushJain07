@@ -4,12 +4,12 @@
 <li><b>My Offical Website</b>: https://sourcemaster.netlify.app</li>
 <li> All of my projects are available at github : https://github.com/AayushJain07</li>
 <li> All of my projects are available at Codepen: https://codepen.io/Thecodepen2022</li>
-<li><b>My Portfolio</b> codemaster.netlify.app/</li>
+<li><b>My Portfolio</b>: https://hireaayush.netlify.app</li>
 <li>Will launch my app soon.</li>
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="250" align="right">
 
 ## Connect with me:
-https://aayush.netlify.app
+https://hireaayush.netlify.app
 
 ## Languages and Tools
 <img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" height="35">
