@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Jain</h1>
 
-<li>I’m currently working on My portfolio.</li>
-<li>I’m currently learning python.</li>
+<li>Student and Digital Marketing Executive</li>
 <li> All of my projects are available at : https://github.com/AayushJain07</li>
 <li>Will launch my app soon.</li>
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="250" align="right">
