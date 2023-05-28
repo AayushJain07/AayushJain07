@@ -15,7 +15,7 @@ https://hireaayush.netlify.app
 ## Languages and Tools
 <img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" height="35">
 <img src="https://img.icons8.com/windows/452/codepen.png" height="38">
-<img src="https://assets.stickpng.com/images/62a76492bd73a4af5c5d4fb9.png height="35">
+<img src="https://assets.stickpng.com/images/62a76492bd73a4af5c5d4fb9.png" height="35">
 
 ## Follow me on
 <a href="https://www.instagram.com/007aayushjain"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" height="35">
