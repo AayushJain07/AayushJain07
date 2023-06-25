@@ -3,7 +3,7 @@
 <li>Digital Marketer </li>
 <li> All of my projects are available at github : https://github.com/AayushJain07</li>
 <li> All of my projects are available at Codepen: https://codepen.io/Thecodepen2022</li>
-<li><b>My Portfolio</b>: https://hireaayush.netlify.app</li>
+<li><b>My Portfolio</b>: https://aayushanandjain.netlify.app/</li>
 <li><b>My Blog</b> Coming Soon</li>
 <li>Will launch my app soon.</li>
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="250" align="right">
